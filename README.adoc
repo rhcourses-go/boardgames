@@ -1,0 +1,9 @@
+= Boardgames
+
+Dieses Repo enthält eine Reihe von Brettspiel-Implementierungen.
+Es ist dafür gedacht, zu zeigen, wie ein strukturierter Ansatz für ein
+größeres Projekt aussehen kann, bei dem auch fortgeschrittene Konzepte
+wie z.B. die Verwendung von `struct`s und `interface`s zum Einsatz kommen.
+
+Bisher gibt es hier aber noch nichts zu sehen, das Projekt ist noch im Aufbau.
+Das Repo existiert schon, weil bereits darauf verlinkt wurde.
